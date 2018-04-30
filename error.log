@@ -1,0 +1,298 @@
+Hash: acc5db0936d654ff62e9
+Version: webpack 4.6.0
+Time: 395ms
+Built at: 2018-04-30 05:10:03
+     Asset      Size  Chunks             Chunk Names
+js/main.js  3.53 KiB    main  [emitted]  main
+Entrypoint main = js/main.js
+[./main.js] 398 bytes {main} [built]
+
+ERROR in ./main.js
+Module not found: Error: Can't resolve 'react' in '/home/ubuntu/mastone/assets'
+resolve 'react' in '/home/ubuntu/mastone/assets'
+  Parsed request is a module
+  using description file: /home/ubuntu/mastone/package.json (relative path: ./assets)
+    Field 'browser' doesn't contain a valid alias configuration
+    resolve as module
+      looking for modules in /home/ubuntu/mastone/
+        using description file: /home/ubuntu/mastone/package.json (relative path: .)
+          Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/ubuntu/mastone/assets/
+        using description file: /home/ubuntu/mastone/package.json (relative path: ./assets/)
+          Field 'browser' doesn't contain a valid alias configuration
+          using description file: /home/ubuntu/mastone/package.json (relative path: ./react)
+            no extension
+              Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/ubuntu/
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react doesn't exist
+            .js
+              Field 'browser' doesn't contain a valid alias configuration
+          /react doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+          using description file: /home/ubuntu/mastone/package.json (relative path: ./assets/react)
+            no extension
+              Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react.js doesn't exist
+            .jsx
+              Field 'browser' doesn't contain a valid alias configuration
+          /react.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react doesn't exist
+            .js
+              Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react.jsx doesn't exist
+            .css
+              Field 'browser' doesn't contain a valid alias configuration
+          /react.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react.js doesn't exist
+            .jsx
+              Field 'browser' doesn't contain a valid alias configuration
+          /home/ubuntu/react doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react.css doesn't exist
+            .less
+              Field 'browser' doesn't contain a valid alias configuration
+          /react.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react.jsx doesn't exist
+            .css
+              Field 'browser' doesn't contain a valid alias configuration
+          /home/ubuntu/react.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react.less doesn't exist
+          /react.less doesn't exist
+              /home/ubuntu/mastone/assets/react.css doesn't exist
+            .less
+              Field 'browser' doesn't contain a valid alias configuration
+            as directory
+              /home/ubuntu/mastone/react doesn't exist
+          /home/ubuntu/react.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+        as directory
+          /react doesn't exist
+              /home/ubuntu/mastone/assets/react.less doesn't exist
+          /home/ubuntu/react.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react.less doesn't exist
+            as directory
+              /home/ubuntu/mastone/assets/react doesn't exist
+        as directory
+          /home/react doesn't exist
+          /home/ubuntu/react.less doesn't exist
+        as directory
+          /home/ubuntu/react doesn't exist
+[/package.json]
+[/home/package.json]
+[/react/package.json]
+[/home/ubuntu/package.json]
+[/home/ubuntu/mastone/react]
+[/react]
+[/home/react/package.json]
+[/home/ubuntu/mastone/react.js]
+[/react.js]
+[/home/ubuntu/mastone/assets/react]
+[/home/ubuntu/react/package.json]
+[/home/react]
+[/home/ubuntu/mastone/react.jsx]
+[/react.jsx]
+[/home/ubuntu/mastone/assets/react.js]
+[/home/ubuntu/react]
+[/home/react.js]
+[/home/ubuntu/mastone/react.css]
+[/react.css]
+[/home/ubuntu/mastone/assets/react.jsx]
+[/home/ubuntu/react.js]
+[/home/react.jsx]
+[/home/ubuntu/mastone/react.less]
+[/react.less]
+[/home/ubuntu/mastone/assets/react.css]
+[/home/ubuntu/react.jsx]
+[/home/react.css]
+[/home/ubuntu/mastone/assets/react.less]
+[/home/ubuntu/react.css]
+[/home/react.less]
+[/home/ubuntu/react.less]
+ @ ./main.js 3:13-29
+
+ERROR in ./main.js
+Module not found: Error: Can't resolve 'react-dom' in '/home/ubuntu/mastone/assets'
+resolve 'react-dom' in '/home/ubuntu/mastone/assets'
+  Parsed request is a module
+  using description file: /home/ubuntu/mastone/package.json (relative path: ./assets)
+    Field 'browser' doesn't contain a valid alias configuration
+    resolve as module
+      looking for modules in /home/ubuntu/mastone/
+        using description file: /home/ubuntu/mastone/package.json (relative path: .)
+          Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/ubuntu/mastone/assets/
+        using description file: /home/ubuntu/mastone/package.json (relative path: ./assets/)
+          Field 'browser' doesn't contain a valid alias configuration
+          using description file: /home/ubuntu/mastone/package.json (relative path: ./react-dom)
+            no extension
+              Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+      looking for modules in /home/ubuntu/
+        No description file found
+        Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react-dom doesn't exist
+            .js
+              Field 'browser' doesn't contain a valid alias configuration
+          /react-dom doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+          using description file: /home/ubuntu/mastone/package.json (relative path: ./assets/react-dom)
+            no extension
+              Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react-dom.js doesn't exist
+            .jsx
+              Field 'browser' doesn't contain a valid alias configuration
+          /react-dom.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react-dom doesn't exist
+            .js
+              Field 'browser' doesn't contain a valid alias configuration
+        No description file found
+        no extension
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react-dom doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react-dom.jsx doesn't exist
+            .css
+              Field 'browser' doesn't contain a valid alias configuration
+          /react-dom.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react-dom.js doesn't exist
+            .jsx
+              Field 'browser' doesn't contain a valid alias configuration
+          /home/ubuntu/react-dom doesn't exist
+        .js
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react-dom.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react-dom.css doesn't exist
+            .less
+              Field 'browser' doesn't contain a valid alias configuration
+          /react-dom.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/assets/react-dom.jsx doesn't exist
+            .css
+              Field 'browser' doesn't contain a valid alias configuration
+          /home/ubuntu/react-dom.js doesn't exist
+        .jsx
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react-dom.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+              /home/ubuntu/mastone/react-dom.less doesn't exist
+          /react-dom.less doesn't exist
+              /home/ubuntu/mastone/assets/react-dom.css doesn't exist
+            .less
+              Field 'browser' doesn't contain a valid alias configuration
+            as directory
+              /home/ubuntu/mastone/react-dom doesn't exist
+          /home/ubuntu/react-dom.jsx doesn't exist
+        .css
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react-dom.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+        as directory
+          /react-dom doesn't exist
+              /home/ubuntu/mastone/assets/react-dom.less doesn't exist
+          /home/ubuntu/react-dom.css doesn't exist
+        .less
+          Field 'browser' doesn't contain a valid alias configuration
+          /home/react-dom.less doesn't exist
+            as directory
+              /home/ubuntu/mastone/assets/react-dom doesn't exist
+        as directory
+          /home/react-dom doesn't exist
+          /home/ubuntu/react-dom.less doesn't exist
+        as directory
+          /home/ubuntu/react-dom doesn't exist
+[/package.json]
+[/home/package.json]
+[/react-dom/package.json]
+[/home/ubuntu/package.json]
+[/home/ubuntu/mastone/react-dom]
+[/react-dom]
+[/home/react-dom/package.json]
+[/home/ubuntu/mastone/react-dom.js]
+[/react-dom.js]
+[/home/ubuntu/mastone/assets/react-dom]
+[/home/ubuntu/react-dom/package.json]
+[/home/react-dom]
+[/home/ubuntu/mastone/react-dom.jsx]
+[/react-dom.jsx]
+[/home/ubuntu/mastone/assets/react-dom.js]
+[/home/ubuntu/react-dom]
+[/home/react-dom.js]
+[/home/ubuntu/mastone/react-dom.css]
+[/react-dom.css]
+[/home/ubuntu/mastone/assets/react-dom.jsx]
+[/home/ubuntu/react-dom.js]
+[/home/react-dom.jsx]
+[/home/ubuntu/mastone/react-dom.less]
+[/react-dom.less]
+[/home/ubuntu/mastone/assets/react-dom.css]
+[/home/ubuntu/react-dom.jsx]
+[/home/react-dom.css]
+[/home/ubuntu/mastone/assets/react-dom.less]
+[/home/ubuntu/react-dom.css]
+[/home/react-dom.less]
+[/home/ubuntu/react-dom.less]
+ @ ./main.js 7:16-36
