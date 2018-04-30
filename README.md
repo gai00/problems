@@ -1,5 +1,10 @@
 # problems
 all my problems
+
+```
+$> webpack
+```
+
 ```
 ERROR in ./main.js
 Module not found: Error: Can't resolve 'react' in '/home/ubuntu/mastone/assets'
